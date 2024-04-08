@@ -12,7 +12,7 @@ Prepare the list from each linear equation and assign in np.array()
 ### Step 3: 
 Using the np.linalg.inverse_of_matrix(), we can find the inverse of matrix in given matrix
 ### Step 4: 
-End of the program
+End of the program 
 
 ## Program:
 ```
